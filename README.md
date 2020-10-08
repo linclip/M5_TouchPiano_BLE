@@ -12,7 +12,7 @@ M5StackでMIDIメッセージの送受信のテストが行えます。
 受信データの表示も可能です（今のところノートのみ）。
 
 
-#Libraries
+## Libraries
 https://github.com/lathoub/Arduino-BLE-MIDI
 
 https://github.com/FortySevenEffects/arduino_midi_library
