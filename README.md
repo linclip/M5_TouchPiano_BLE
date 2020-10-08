@@ -1,5 +1,6 @@
 # M5_TouchPiano_BLE
 Sending and receiving MIDI messages via Bluetooth LE (BLE-MIDI).
+
 Using M5Stack with Piano module for micro:bit.
 
 M5StackでMIDIメッセージの送受信のテストが行えます。
@@ -10,6 +11,11 @@ M5StackでMIDIメッセージの送受信のテストが行えます。
 
 受信データの表示も可能です（今のところノートのみ）。
 
+
+#Libraries
+https://github.com/lathoub/Arduino-BLE-MIDI
+
+https://github.com/FortySevenEffects/arduino_midi_library
 
 ## Piano module for micro:bit
 https://www.waveshare.com/wiki/Piano_for_micro_bit
