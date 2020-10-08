@@ -10,8 +10,8 @@
 #include "DrawPiano.h"
 
 #include <BLEMIDI.h>
-#include <hardware/BLEMIDI_ESP32_NimBLE.h>  // Bad
-//#include <hardware/BLEMIDI_ESP32.h>       // Good !
+//#include <hardware/BLEMIDI_ESP32_NimBLE.h>  // Bad
+#include <hardware/BLEMIDI_ESP32.h>       // Good !
 
 #define DEVICE_NAME               "M5Stack Piano"
 //BLEMIDI_CREATE_DEFAULT_INSTANCE();
